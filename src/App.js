@@ -48,7 +48,6 @@ export default function App() {
       <div>
         <canvas id="myCanvas" width="640" height="373"></canvas>
       </div>
-
       <div>
         <TextField
           id="filled-multiline-flexible"
@@ -59,7 +58,7 @@ export default function App() {
           onChange={(event) => setText(event.target.value)}
         />
       </div>
-      
+
       <div>
       <TextField
           id="filled-multiline-flexible"
