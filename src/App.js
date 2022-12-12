@@ -25,9 +25,7 @@ export default function App() {
 //       }
 //     }
 //     context.fillText(line, x, y);
-// }
-
-  
+// }  
 
   useEffect(() => {
     var c = document.getElementById("myCanvas");
